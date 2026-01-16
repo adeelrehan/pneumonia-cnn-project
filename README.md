@@ -1,5 +1,4 @@
-# Automated Pneumonia Detection from Chest X-Ray Images
-
+# AI-Based Pneumonia Diagnosis from Chest X-Ray Images Using Deep Learning
 ## Project Overview
 This project focuses on automated detection of pneumonia from chest X-ray images using a Convolutional Neural Network (CNN) built entirely from scratch. The goal is to assist in early diagnosis while following strict academic guidelines.
 ## Project Objectives
