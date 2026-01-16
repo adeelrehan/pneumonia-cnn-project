@@ -65,5 +65,13 @@ The confusion matrix shows a low number of false negatives, which is critical fo
 The final project presentation slides are available in the `presentation/` folder.  
 These slides summarize the problem statement, dataset, methodology, model architecture, results, and conclusions.
 
+## Repository Structure
+- `Final_ML_Project.ipynb` : Complete end-to-end implementation of the CNN-based pneumonia detection project
+- `results/` : Training graphs, confusion matrix, and evaluation outputs
+- `report/` : Final project short report
+- `presentation/` : Project presentation slides
+- `requirements.txt` : List of Python dependencies required to run the project
+
+
 
 
