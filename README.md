@@ -71,6 +71,11 @@ These slides summarize the problem statement, dataset, methodology, model archit
 - `report/` : Final project short report
 - `presentation/` : Project presentation slides
 - `requirements.txt` : List of Python dependencies required to run the project
+  ## Reproducibility
+All experiments in this project were conducted using consistent preprocessing steps and fixed data splits.
+The complete implementation is provided in the notebook along with a list of required dependencies.
+This ensures that the results can be reproduced in a similar environment.
+
 
 
 
