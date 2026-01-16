@@ -22,11 +22,19 @@ SDG 3 – Good Health and Well-Being
 - Focus on data preprocessing, training, inference, and evaluation
 - Clinically relevant evaluation metrics (Precision, Recall, F1-score)
 
-## Dataset
-- Source: Kaggle (Chest X-Ray Pneumonia Dataset)
-- Classes: Normal, Pneumonia
+## Dataset Details
+
+The dataset used in this project consists of chest X-ray images collected from a publicly available Kaggle repository. 
+The dataset was curated to ensure class balance and data quality.
+
 - Total images used: 800
-- Stratified train, validation, and test split
+- Normal class: 400 images
+- Pneumonia class: 400 images
+- Image format: Grayscale chest X-rays
+- Data split: Stratified training, validation, and testing sets
+
+The balanced nature of the dataset helps reduce bias and ensures reliable performance evaluation.
+
 
 ## Tools & Technologies
 - Python
