@@ -2,7 +2,14 @@
 
 ## Project Overview
 This project focuses on automated detection of pneumonia from chest X-ray images using a Convolutional Neural Network (CNN) built entirely from scratch. The goal is to assist in early diagnosis while following strict academic guidelines.
+## Project Objectives
 
+The main objectives of this project are:
+- To design and implement a Convolutional Neural Network (CNN) from scratch for pneumonia detection.
+- To preprocess and normalize chest X-ray images for effective learning.
+- To train and evaluate the model using clinically relevant metrics.
+- To develop a reliable inference mechanism for classifying new chest X-ray images.
+- To understand the complete deep learning pipeline including training, evaluation, and inference.
 ## Domain
 Healthcare / Medical Imaging
 
