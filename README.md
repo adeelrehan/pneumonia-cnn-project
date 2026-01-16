@@ -60,5 +60,10 @@ The confusion matrix shows a low number of false negatives, which is critical fo
 - Training vs validation accuracy and loss curves indicate stable convergence.
 - No severe overfitting was observed.
 - Evaluation results and plots are available in the `results/` folder.
+  
+  ## Project Presentation
+The final project presentation slides are available in the `presentation/` folder.  
+These slides summarize the problem statement, dataset, methodology, model architecture, results, and conclusions.
+
 
 
