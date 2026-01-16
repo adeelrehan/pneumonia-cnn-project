@@ -7,3 +7,4 @@ All notable changes to this project are documented in this file.
 - Added training and evaluation results
 - Included project report and presentation
 - Documented repository structure and dependencies
+- Final review completed before submission
