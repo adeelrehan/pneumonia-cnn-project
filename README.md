@@ -29,4 +29,21 @@ SDG 3 – Good Health and Well-Being
 
 ## Project Status
 Initial repository setup completed.
+## Results Summary
+
+The CNN model was trained on a balanced dataset of 800 chest X-ray images (400 Normal, 400 Pneumonia).
+
+### Performance Metrics
+- Accuracy: 95%
+- Precision (Pneumonia): 0.93
+- Recall (Pneumonia): 0.98
+- F1-score: 0.95
+
+The confusion matrix shows a low number of false negatives, which is critical for medical diagnosis.
+
+### Evaluation
+- Training vs validation accuracy and loss curves indicate stable convergence.
+- No severe overfitting was observed.
+- Evaluation results and plots are available in the `results/` folder.
+
 
